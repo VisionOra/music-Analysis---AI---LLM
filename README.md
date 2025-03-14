@@ -30,8 +30,9 @@ An intelligent music analysis platform that provides detailed feedback on tracks
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd music-review-system
+git clone https://github.com/VisionOra/music-Analysis---AI---LLM.git
+
+cd music-Analysis---AI---LLM
 ```
 
 ### 2. Backend Setup
