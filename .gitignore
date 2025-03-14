@@ -1,0 +1,19 @@
+# Ignore environment variables
+backend/.env
+frontend/.env
+
+# Ignore Python and Node modules
+venv/
+__pycache__/
+node_modules/
+dist/
+build/
+
+# Ignore database and logs
+*.sqlite3
+*.log
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+.DS_Store
