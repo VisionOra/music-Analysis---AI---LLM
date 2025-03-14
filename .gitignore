@@ -18,4 +18,5 @@ build/
 .idea/
 .DS_Store
 
-.venv/.venv/
+.venv/
+.venv/
